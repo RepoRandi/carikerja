@@ -1,5 +1,17 @@
 module.exports = [
   {
+    name: "Randy",
+    status: "Remote",
+    role: "Software Engineer",
+    location: "Jakarta, Indonesia",
+    social_media: {
+      Linkedin: "https://www.linkedin.com/in/doddy-rizal-novianto-559269157/",
+      Github: "https://github.com/drzaln"
+    },
+    tech_stack: ["MERN"],
+    hired: false
+  },
+  {
     name: "Erwin Rahayu",
     status: "Fulltime, Remote",
     role: "Full Stack Developer, DevOps",
@@ -8,10 +20,10 @@ module.exports = [
       Linkedin: "https://www.linkedin.com/in/erwin-ra/",
       Github: "https://github.com/artmxra7",
       Twitter: "https://twitter.com/ErwinRA7",
-      Blog: "https://erwinrahayu.medium.com/",
+      Blog: "https://erwinrahayu.medium.com/"
     },
     tech_stack: ["React", "React Native", "Flutter", "NodeJS", "PHP", "AWS"],
-    hired: true,
+    hired: true
   },
   {
     name: "Doddy Rizal Novianto",
@@ -20,10 +32,10 @@ module.exports = [
     location: "Jakarta, Tangerang",
     social_media: {
       Linkedin: "https://www.linkedin.com/in/doddy-rizal-novianto-559269157/",
-      Github: "https://github.com/drzaln",
+      Github: "https://github.com/drzaln"
     },
     tech_stack: ["react-native", "react", "javascript"],
-    hired: false,
+    hired: false
   },
   {
     name: "Tony Sanjaya",
@@ -32,10 +44,10 @@ module.exports = [
     location: "Surabaya",
     social_media: {
       Linkedin: "https://www.linkedin.com/in/tony-sanjaya-11836042/",
-      Github: "https://github.com/sanjayatony",
+      Github: "https://github.com/sanjayatony"
     },
     tech_stack: ["WordPress", "PHP", "Tailwind CSS", "VueJS", "Shopify"],
-    hired: false,
+    hired: false
   },
   {
     name: "Rifki Andriyanto",
@@ -44,10 +56,10 @@ module.exports = [
     location: "Bogor",
     social_media: {
       Linkedin: "https://www.linkedin.com/in/andriyantorifki",
-      Github: "https://github.com/rifkiandriyanto",
+      Github: "https://github.com/rifkiandriyanto"
     },
     tech_stack: ["react", "react native", "javascript", "css", "nodejs"],
-    hired: false,
+    hired: false
   },
   {
     name: "Lelianto Eko Pradana",
@@ -56,10 +68,10 @@ module.exports = [
     location: "Jakarta",
     social_media: {
       Linkedin: "https://www.linkedin.com/in/lelianto1/",
-      Github: "https://github.com/Lelianto",
+      Github: "https://github.com/Lelianto"
     },
     tech_stack: ["React.js", "Nuxt.js", "Python", "Flask", "Javascript"],
-    hired: true,
+    hired: true
   },
   {
     name: "Ainul",
@@ -68,10 +80,10 @@ module.exports = [
     location: "Surabaya",
     social_media: {
       Linkedin: "https://www.linkedin.com/in/ai-null/",
-      Github: "https://github.com/ai-null",
+      Github: "https://github.com/ai-null"
     },
     tech_stack: ["Kotlin"],
-    hired: false,
+    hired: false
   },
   {
     name: "Budhi Priyatmojo",
@@ -80,7 +92,7 @@ module.exports = [
     location: "Jakarta",
     social_media: "https://www.linkedin.com/in/budhi-priyatmojo-37ba1913b/",
     tech_stack: ["golang", "nodejs", "php"],
-    hired: true,
+    hired: true
   },
   {
     name: "Mahbub Zulkarnain",
@@ -89,7 +101,7 @@ module.exports = [
     location: "Jakarta",
     social_media: "https://www.linkedin.com/in/mahbubzulkarnain/",
     tech_stack: ["react", "nodejs"],
-    hired: true,
+    hired: true
   },
   {
     name: "Rikki Novar",
@@ -98,7 +110,7 @@ module.exports = [
     location: "Bandung",
     social_media: "https://www.linkedin.com/in/rikkinovar/",
     tech_stack: ["react", "react-native"],
-    hired: false,
+    hired: false
   },
   {
     name: "Willy Tan",
@@ -107,7 +119,7 @@ module.exports = [
     location: "Jakarta",
     social_media: "https://www.linkedin.com/in/willy-tan-198814150/",
     tech_stack: ["react", "react-native"],
-    hired: false,
+    hired: false
   },
   {
     name: "Faris Luthfan Ramadhan",
@@ -116,7 +128,7 @@ module.exports = [
     location: "Jakarta",
     social_media: "https://www.linkedin.com/in/farislr/",
     tech_stack: ["nodejs", "typescript"],
-    hired: true,
+    hired: true
   },
   {
     name: "Natascha Meysarach Lamsu",
@@ -125,7 +137,7 @@ module.exports = [
     location: "Jakarta",
     social_media: "https://www.linkedin.com/in/natascha-lamsu-445369167/",
     tech_stack: ["react"],
-    hired: false,
+    hired: false
   },
   {
     name: "Hary Dewantoro",
@@ -134,7 +146,7 @@ module.exports = [
     location: "Jakarta",
     social_media: "https://www.linkedin.com/in/hary-dewantoro-7bb00512a/",
     tech_stack: [],
-    hired: false,
+    hired: false
   },
   {
     name: "Sayed Khaidir Ali",
@@ -143,7 +155,7 @@ module.exports = [
     location: "Jakarta",
     social_media: "https://www.linkedin.com/in/sayed-khaidir-ali/",
     tech_stack: ["nodejs", "typescript", "mysql", "mongodb"],
-    hired: true,
+    hired: true
   },
   {
     name: "Rian Akbar Ferdiansyah",
@@ -152,7 +164,7 @@ module.exports = [
     location: "Jakarta",
     social_media: "https://www.linkedin.com/in/ryanakbar20/",
     tech_stack: ["react", "react-native", "nodejs", "mongodb"],
-    hired: true,
+    hired: true
   },
   {
     name: "Ari Rudiana",
@@ -161,7 +173,7 @@ module.exports = [
     location: "Depok",
     social_media: "https://www.linkedin.com/in/ari-rudiana-260569192/",
     tech_stack: ["vuejs", "laravel"],
-    hired: false,
+    hired: false
   },
   {
     name: "Hardyin Alexander Hutapea",
@@ -170,7 +182,7 @@ module.exports = [
     location: "Jakarta",
     social_media: "https://www.linkedin.com/in/hardlexander/",
     tech_stack: ["golang", "mysql", "redis", "elasticsearch"],
-    hired: false,
+    hired: false
   },
   {
     name: "Muhammad Rizqi",
@@ -179,7 +191,7 @@ module.exports = [
     location: "Jakarta",
     social_media: "https://www.linkedin.com/in/muhrizqi/",
     tech_stack: ["Python", "Odoo", "PostgreSQL"],
-    hired: false,
+    hired: false
   },
   {
     name: "Abdul Malik Ikhsan",
@@ -190,10 +202,10 @@ module.exports = [
       Linkedin: "https://www.linkedin.com/in/samsonasik/",
       Github: "https://github.com/samsonasik",
       Twitter: "https://twitter.com/samsonasik",
-      Blog: "https://samsonasik.wordpress.com/",
+      Blog: "https://samsonasik.wordpress.com/"
     },
     tech_stack: ["PHP", "Laminas", "Mezzio", "Laminas API Tools"],
-    hired: true,
+    hired: true
   },
   {
     name: "Bahyu Sanciko",
@@ -204,10 +216,10 @@ module.exports = [
       Linkedin: "https://www.linkedin.com/in/bahyu-sanciko/",
       Github: "https://github.com/bahyusanciko",
       Blog: "https://bahyusanciko.github.io/",
-      Twitter: "https://twitter.com/bhysnck",
+      Twitter: "https://twitter.com/bhysnck"
     },
     tech_stack: ["Laravel", "Codeigniter", "Angular", "Ionic"],
-    hired: true,
+    hired: true
   },
   {
     name: "Adzanny Akbar",
@@ -216,10 +228,10 @@ module.exports = [
     location: "Jakarta",
     social_media: {
       Linkedin: "https://www.linkedin.com/in/adzannyaa/",
-      Github: "https://gitlab.com/zanisis",
+      Github: "https://gitlab.com/zanisis"
     },
     tech_stack: ["React", "React Native", "Flutter", "NodeJS"],
-    hired: true,
+    hired: true
   },
   {
     name: "Ilham Bintang",
@@ -229,10 +241,10 @@ module.exports = [
     social_media: {
       Linkedin: "https://www.linkedin.com/in/nullphantom/",
       Github: "https://github.com/nullphantom",
-      Blog: "https://abin.web.id/",
+      Blog: "https://abin.web.id/"
     },
     tech_stack: ["Tensorflow", "Python", "Elasticsearch"],
-    hired: false,
+    hired: false
   },
   {
     name: "Zainal Arifin",
@@ -241,10 +253,10 @@ module.exports = [
     location: "Bandung",
     social_media: {
       Linkedin: "https://www.linkedin.com/in/zainalar/",
-      Github: "https://github.com/zainalarifinid",
+      Github: "https://github.com/zainalarifinid"
     },
     tech_stack: ["JavaScript", "TypeScript", "NodeJS", "PHP", "VueJS"],
-    hired: false,
+    hired: false
   },
   {
     name: "Hasobi Roid Radityo",
@@ -253,10 +265,10 @@ module.exports = [
     location: "Surakarta",
     social_media: {
       Linkedin: "https://www.linkedin.com/in/hasobi/",
-      Github: "https://github.com/hasobi",
+      Github: "https://github.com/hasobi"
     },
     tech_stack: ["Python", "JavaScript", "Go", "Terraform"],
-    hired: false,
+    hired: false
   },
   {
     name: "Anton Purwanto",
@@ -266,16 +278,16 @@ module.exports = [
     social_media: {
       Linkedin: "https://www.linkedin.com/in/anton-purwanto-268a4050",
       Github: "https://github.com/anteknik",
-      AboutMe: "https://about.me/antonpurwanto",
+      AboutMe: "https://about.me/antonpurwanto"
     },
     tech_stack: [
       "Java",
       "Spring Framework",
       "Liferay",
       "JPA/hibernate",
-      "JSF/JSP",
+      "JSF/JSP"
     ],
-    hired: true,
+    hired: true
   },
   {
     name: "Panji Asmoro",
@@ -284,7 +296,7 @@ module.exports = [
     location: "Depok",
     social_media: {
       Linkedin: "https://www.linkedin.com/in/panjiasmoro/",
-      Github: "https://github.com/panjiasmoroart",
+      Github: "https://github.com/panjiasmoroart"
     },
     tech_stack: [
       "HTML5",
@@ -293,160 +305,182 @@ module.exports = [
       "JavaScript",
       "ReactJS",
       "PHP",
-      "Ruby",
+      "Ruby"
     ],
-    hired: false,
+    hired: false
   },
   {
-    name: 'Bahyu Sanciko',
-    status: 'Fulltime, Remote',
-    role: 'Full Stack Developer',
-    location: 'Jakarta',
+    name: "Bahyu Sanciko",
+    status: "Fulltime, Remote",
+    role: "Full Stack Developer",
+    location: "Jakarta",
     social_media: {
-      Linkedin: 'https://www.linkedin.com/in/bahyu-sanciko/',
-      Github: 'https://github.com/bahyusanciko',
-      Blog: 'https://bahyusanciko.github.io/',
-      Twitter: 'https://twitter.com/bhysnck',
+      Linkedin: "https://www.linkedin.com/in/bahyu-sanciko/",
+      Github: "https://github.com/bahyusanciko",
+      Blog: "https://bahyusanciko.github.io/",
+      Twitter: "https://twitter.com/bhysnck"
     },
-    tech_stack: ['Laravel', 'Codeigniter', 'Angular', 'Ionic'],
+    tech_stack: ["Laravel", "Codeigniter", "Angular", "Ionic"],
     hired: true
   },
   {
-    name: 'Adzanny Akbar',
-    status: 'Fulltime, Remote',
-    role: 'Full Stack Developer',
-    location: 'Jakarta',
+    name: "Adzanny Akbar",
+    status: "Fulltime, Remote",
+    role: "Full Stack Developer",
+    location: "Jakarta",
     social_media: {
-      Linkedin: 'https://www.linkedin.com/in/adzannyaa/',
-      Github: 'https://gitlab.com/zanisis'
+      Linkedin: "https://www.linkedin.com/in/adzannyaa/",
+      Github: "https://gitlab.com/zanisis"
     },
-    tech_stack: ['React', 'React Native', 'Flutter', 'NodeJS'],
+    tech_stack: ["React", "React Native", "Flutter", "NodeJS"],
     hired: true
   },
   {
-    name: 'Ilham Bintang',
-    status: 'Fulltime',
-    role: 'Machine Learning Engineer',
-    location: 'Jakarta',
+    name: "Ilham Bintang",
+    status: "Fulltime",
+    role: "Machine Learning Engineer",
+    location: "Jakarta",
     social_media: {
-      Linkedin: 'https://www.linkedin.com/in/nullphantom/',
-      Github: 'https://github.com/nullphantom',
-      Blog: 'https://abin.web.id/'
+      Linkedin: "https://www.linkedin.com/in/nullphantom/",
+      Github: "https://github.com/nullphantom",
+      Blog: "https://abin.web.id/"
     },
-    tech_stack: ['Tensorflow', 'Python', 'Elasticsearch'],
+    tech_stack: ["Tensorflow", "Python", "Elasticsearch"],
     hired: false
   },
   {
-    name: 'Arian Saputra',
-    status: 'Fulltime, Remote',
-    role: 'Backend Developer',
-    location: 'Mataram',
+    name: "Arian Saputra",
+    status: "Fulltime, Remote",
+    role: "Backend Developer",
+    location: "Mataram",
     social_media: {
-      Linkedin: 'https://www.linkedin.com/in/rhyanz46/',
-      Github: 'https://github.com/Rhyanz46/',
-      Website: 'https://ariansaputra.com/'
+      Linkedin: "https://www.linkedin.com/in/rhyanz46/",
+      Github: "https://github.com/Rhyanz46/",
+      Website: "https://ariansaputra.com/"
     },
-    tech_stack: ['Flask', 'Fastapi', 'Mysql', 'Redis', 'Docker'],
+    tech_stack: ["Flask", "Fastapi", "Mysql", "Redis", "Docker"],
     hired: false
   },
   {
-    name: 'Zainal Arifin',
-    status: 'Fulltime, Remote',
-    role: 'Software Developer',
-    location: 'Bandung',
+    name: "Zainal Arifin",
+    status: "Fulltime, Remote",
+    role: "Software Developer",
+    location: "Bandung",
     social_media: {
-      Linkedin: 'https://www.linkedin.com/in/zainalar/',
-      Github: 'https://github.com/zainalarifinid',
+      Linkedin: "https://www.linkedin.com/in/zainalar/",
+      Github: "https://github.com/zainalarifinid"
     },
-    tech_stack: ['JavaScript', 'TypeScript', 'NodeJS', 'PHP', 'VueJS'],
+    tech_stack: ["JavaScript", "TypeScript", "NodeJS", "PHP", "VueJS"],
     hired: false
   },
   {
-    name: 'Hasobi Roid Radityo',
-    status: 'Fulltime, Remote',
-    role: 'DevOps Engineer, Software Engineer',
-    location: 'Surakarta',
+    name: "Hasobi Roid Radityo",
+    status: "Fulltime, Remote",
+    role: "DevOps Engineer, Software Engineer",
+    location: "Surakarta",
     social_media: {
-      Linkedin: 'https://www.linkedin.com/in/hasobi/',
-      Github: 'https://github.com/hasobi',
+      Linkedin: "https://www.linkedin.com/in/hasobi/",
+      Github: "https://github.com/hasobi"
     },
-    tech_stack: ['Python', 'JavaScript', 'Go', 'Terraform'],
+    tech_stack: ["Python", "JavaScript", "Go", "Terraform"],
     hired: false
   },
   {
-    name: 'Anton Purwanto',
-    status: 'Fulltime, Remote',
-    role: 'Java Developer, Software Engineer',
-    location: 'Tangerang Selatan',
+    name: "Anton Purwanto",
+    status: "Fulltime, Remote",
+    role: "Java Developer, Software Engineer",
+    location: "Tangerang Selatan",
     social_media: {
-      Linkedin: 'https://www.linkedin.com/in/anton-purwanto-268a4050',
-      Github: 'https://github.com/anteknik',
-      AboutMe: 'https://about.me/antonpurwanto'
+      Linkedin: "https://www.linkedin.com/in/anton-purwanto-268a4050",
+      Github: "https://github.com/anteknik",
+      AboutMe: "https://about.me/antonpurwanto"
     },
-    tech_stack: ['Java', 'Spring Framework', 'Liferay', 'JPA/hibernate', 'JSF/JSP'],
+    tech_stack: [
+      "Java",
+      "Spring Framework",
+      "Liferay",
+      "JPA/hibernate",
+      "JSF/JSP"
+    ],
     hired: true
   },
   {
-    name: 'Panji Asmoro',
-    status: 'Fulltime',
-    role: 'Front End Developer',
-    location: 'Depok',
+    name: "Panji Asmoro",
+    status: "Fulltime",
+    role: "Front End Developer",
+    location: "Depok",
     social_media: {
-      Linkedin: 'https://www.linkedin.com/in/panjiasmoro/',
-      Github: 'https://github.com/panjiasmoroart'
+      Linkedin: "https://www.linkedin.com/in/panjiasmoro/",
+      Github: "https://github.com/panjiasmoroart"
     },
-    tech_stack: ['HTML5', 'CSS3', 'SASS', 'JavaScript', 'ReactJS', 'PHP', 'Ruby'],
+    tech_stack: [
+      "HTML5",
+      "CSS3",
+      "SASS",
+      "JavaScript",
+      "ReactJS",
+      "PHP",
+      "Ruby"
+    ],
     hired: false
   },
   {
-    name: 'Panji Asmoro',
-    status: 'Fulltime',
-    role: 'Front End Developer',
-    location: 'Depok',
+    name: "Panji Asmoro",
+    status: "Fulltime",
+    role: "Front End Developer",
+    location: "Depok",
     social_media: {
-      Linkedin: 'https://www.linkedin.com/in/panjiasmoro/',
-      Github: 'https://github.com/panjiasmoroart'
+      Linkedin: "https://www.linkedin.com/in/panjiasmoro/",
+      Github: "https://github.com/panjiasmoroart"
     },
-    tech_stack: ['HTML5', 'CSS3', 'SASS', 'JavaScript', 'ReactJS', 'PHP', 'Ruby'],
+    tech_stack: [
+      "HTML5",
+      "CSS3",
+      "SASS",
+      "JavaScript",
+      "ReactJS",
+      "PHP",
+      "Ruby"
+    ],
     hired: false
   },
   {
-    name: 'Imam Riyadi',
-    status: 'Fulltime, Remote',
-    role: 'Software Developer',
-    location: 'Jakarta',
+    name: "Imam Riyadi",
+    status: "Fulltime, Remote",
+    role: "Software Developer",
+    location: "Jakarta",
     social_media: {
-      Linkedin: 'https://linkedin.com/in/imam-riyadi',
-      Github: 'https://github.com/imamriyadi',
-      Website: 'https://imamriyadi.com'
+      Linkedin: "https://linkedin.com/in/imam-riyadi",
+      Github: "https://github.com/imamriyadi",
+      Website: "https://imamriyadi.com"
     },
-    tech_stack: ['JavaScript', 'SASS', 'Java Android ', 'PHP', 'C#'],
+    tech_stack: ["JavaScript", "SASS", "Java Android ", "PHP", "C#"],
     hired: false
   },
   {
-    name: 'Bambang Mohammad Azhari',
-    status: 'Fulltime, Remote',
-    role: 'Software Developer',
-    location: 'Tasikmalaya',
+    name: "Bambang Mohammad Azhari",
+    status: "Fulltime, Remote",
+    role: "Software Developer",
+    location: "Tasikmalaya",
     social_media: {
-      Linkedin: 'https://www.linkedin.com/in/bambang-m-azhari-5280a5192/',
-      Github: 'https://github.com/illusi03',
-      Website: 'https://azhari.my.id'
+      Linkedin: "https://www.linkedin.com/in/bambang-m-azhari-5280a5192/",
+      Github: "https://github.com/illusi03",
+      Website: "https://azhari.my.id"
     },
-    tech_stack: ['Typescript', 'JavaScript', 'PHP', 'Laravel','React'],
+    tech_stack: ["Typescript", "JavaScript", "PHP", "Laravel", "React"],
     hired: false
   },
   {
-    name: 'Muhammad Luthfi Azzammi',
-    status: 'Fulltime, Onsite',
-    role: 'Software Developer',
-    location: 'Bekasi',
+    name: "Muhammad Luthfi Azzammi",
+    status: "Fulltime, Onsite",
+    role: "Software Developer",
+    location: "Bekasi",
     social_media: {
-      Linkedin: 'https://www.linkedin.com/in/azzammi/',
-      Github: 'https://github.com/Azzammi',
-      Website: 'https://azzammi.wordpress.com'
+      Linkedin: "https://www.linkedin.com/in/azzammi/",
+      Github: "https://github.com/Azzammi",
+      Website: "https://azzammi.wordpress.com"
     },
-    tech_stack: ['JavaScript', 'PHP', 'Laravel','Vue','Tailwind'],
+    tech_stack: ["JavaScript", "PHP", "Laravel", "Vue", "Tailwind"],
     hired: false
   },
   {
@@ -459,6 +493,6 @@ module.exports = [
       Github: "https://github.com/imufiid"
     },
     tech_stack: ["Kotlin"],
-    hired: false,
-  },
+    hired: false
+  }
 ];
