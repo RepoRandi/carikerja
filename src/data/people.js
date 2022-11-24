@@ -1,15 +1,15 @@
 module.exports = [
   {
-    name: "Randy",
-    status: "Remote",
+    name: "Randy Maulana",
+    status: "Fulltime, Remote",
     role: "Software Engineer",
     location: "Jakarta, Indonesia",
     social_media: {
-      Linkedin: "https://www.linkedin.com/in/doddy-rizal-novianto-559269157/",
-      Github: "https://github.com/drzaln"
+      Linkedin: "https://www.linkedin.com/in/randi-maulana-akbar",
+      Github: "https://github.com/reporandi"
     },
-    tech_stack: ["MERN"],
-    hired: false
+    tech_stack: ["Flutter", "React", "NodeJS"],
+    hired: true
   },
   {
     name: "Erwin Rahayu",
