@@ -8,7 +8,7 @@ module.exports = [
       Linkedin: "https://www.linkedin.com/in/randi-maulana-akbar",
       Github: "https://github.com/reporandi"
     },
-    tech_stack: ["Flutter", "React", "NodeJS"],
+    tech_stack: ["Flutter", "MERN"],
     hired: true
   },
   {
